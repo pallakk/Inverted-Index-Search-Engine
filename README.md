@@ -54,7 +54,7 @@ This project is a scalable **Search Engine** designed to index large document co
 
 ---
 
-## How It Works (Simplified)
+## How It Works 
 
 1. **Prepare Data**  
    Load your document collection (e.g., Wikipedia pages).
