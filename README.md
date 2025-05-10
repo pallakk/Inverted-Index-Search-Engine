@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a conceptual implementation of an **Inverted Index Search Engine** built as part of a university course project. The system demonstrates how large-scale document collections can be indexed and queried using scalable processing techniques and relevance ranking algorithms.
+This repository contains a conceptual implementation of an **Inverted Index Search Engine**. The system demonstrates how large-scale document collections can be indexed and queried using scalable processing techniques and relevance ranking algorithms.
 
 > ⚠️ **Disclaimer:**  
 > This repository is intended solely to showcase my personal learning and development. Due to course policies, implementation details, code, and internal documentation are not publicly shared. This repository exists to reflect the conceptual scope and personal contributions without disclosing proprietary or academic materials.
